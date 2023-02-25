@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 2047-0089
+
+ Directory of E:\IT Projects\Git\MyGitProject1
+
+25-02-2023  07:25    <DIR>          .
+25-02-2023  07:20    <DIR>          ..
+25-02-2023  07:25                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  159,718,223,872 bytes free
